@@ -12,6 +12,14 @@ Welcome to my portfolio repository! This repository showcases my personal portfo
 ## About
 
 This portfolio website is a representation of my journey, skills, and accomplishments as a [your profession]. It provides an overview of my expertise, showcases my projects, and provides a glimpse into my creative endeavors. It also serves as a medium to connect with like-minded individuals and collaborate on interesting projects.
+A static website is delivered to a user exactly the way it’s stored. That means that nothing on the page will change by the user or even the site administrator unless there’s a redesign of the site, or the site administrator goes directly into the code to change it.  
+A static site is the most basic kind of website, and the easiest to create. It requires no server-side (also called back-end) processing, only client-side. Client-side technologies are HTML, CSS, and JavaScript.
+No programming languages, including JavaScript, are required to make a static site. However, if a site utilizes JavaScript, but no PHP or any other programming language, it’s still considered a static site (since JavaScript is a client-side language).
+Dynamic site examples include:
+   - ** E-commerce sites
+   - ** Blogs
+   - ** Calendars, or to-do sites
+   - ** Any site with information that must be updated regularly
 
 ## Features
 
@@ -21,7 +29,12 @@ This portfolio website is a representation of my journey, skills, and accomplish
 - **Experience**: Learn about my professional experience and the companies I've worked with.
 - **Education**: Find details about my academic background and qualifications.
 - **Skills**: Discover my skill set and proficiency in various programming languages, frameworks, and tools.
-
+  
+## Tools Used
+- Notepad
+- Visual Studio Code
+- Git Bash / Git GUI & so on.
+  
 ## Technologies Used
 
 - HTML5
