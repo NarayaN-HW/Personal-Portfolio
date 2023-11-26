@@ -1,4 +1,5 @@
-![Preview](https://raw.githubusercontent.com/FoORK-Lab/opensource-contribution/023a2ac700e20ae32ef32f13257ea6e41c917c75/portfolio_final.png)
+![Capture](https://github.com/NarayaN-HW/Personal-Portfolio/assets/151113796/85c3b5b5-8ffb-498c-b666-c3052f83c25d)
+![Preview](https://narayan-hw.github.io/Personal-Portfolio/)
 > The captivating screenshots of my portfolio website.
 
 This is simple personal-portfolio website pages.
